@@ -1,2 +1,2 @@
 # cursoMIDI
-Página dedicada al curso de controladores MIDI
+Sitio con información acerca del curso de controladores MIDI
